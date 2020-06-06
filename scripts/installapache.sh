@@ -1,1 +1,1 @@
-yum -y install httpd
+yum -y install nginx
